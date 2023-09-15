@@ -4,6 +4,11 @@
 
 C'est ton éditeur de code, absolument tout le monde utilise l'utilise. VSCode veut dire Visual Studio Code, et c'est un **éditeur de code** mais il ne faut pas le confondre avec Visual Studio qui est un IDE. 
 
+## Git 
+git est un système de contrôle de version de ton code, ça permet de tracer tous les changements dans ton code dans le temps, revenir en arrière, bosser sur plusieurs versions en parallèle, savoir qui a fait de la merde quand, bosser à plusieurs, y compris sur le même fichier etc. Y'en avait d'autres avant git, mais git a plié le game. C'est fait par le mec qui a fait Linux BTW.
+
+Tu peux te créer un compte sur github dans la foulée, c'est gratos et ils vont héberger tout ton code. Git
+
 ## NVM - Node Version Manager
 NVM (for windows) c'est un truc qui permet d'installer plusieurs versions de Node différentes. Là comme ça t'en as pas besoin, mais c'est juste beaucoup trop chiant d'installer NVM si t'as déjà installé NodeJS (j'ai perdu 1h auj exactement à cause de ça).
 
@@ -12,13 +17,6 @@ NVM va l'installer pour toi. NodeJS est un environnement d'execution pour du JS,
 
 ## NPM - Node Package Manager
 NPM est un gestionnaire de paquets pour node, un peu comme Apt sur linux.
-
-## Git 
-git est un système de contrôle de version de ton code, ça permet de tracer tous les changements dans ton code dans le temps, revenir en arrière, bosser sur plusieurs versions en parallèle, savoir qui a fait de la merde quand, bosser à plusieurs, y compris sur le même fichier etc. Y'en avait d'autres avant git, mais git a plié le game. C'est fait par le mec qui a fait Linux BTW.
-
-Tu peux te créer un compte sur github dans la foulée, c'est gratos et ils vont héberger tout ton code. Git
-
-
 
 # NodeJS
 
