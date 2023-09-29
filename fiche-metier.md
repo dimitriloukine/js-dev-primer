@@ -2,6 +2,8 @@
 
 ## Quelles sont les principales missions ? Avez-vous des missions secondaires ?
 
+Je suis actuellement **Ingénieur Front-End Sénior** chez Ekino.
+
 Ma mission est de mener une équipe de développeurs afin d'assurer la conception, le développement et la maintenance du front-end d'une application web produite permettant à des vétérinaires de créer un programme d'alimentation pour animaux en fonction de différentes pathologies et objectifs de croissance ou de perte de poids. Je dois à cette fin écrire du code qui réponde aux besoins métier du client, des tests automatisés du code et des scripts de déploiement, ainsi que de m'assurer de la qualité du code produit par mes collaborateurs.
 
 ## Comment se déroule une journée/une semaine type ?
